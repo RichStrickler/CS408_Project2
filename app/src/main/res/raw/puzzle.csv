@@ -1,0 +1,85 @@
+15	15
+0	0	1	A	PAID	Gave money to
+0	5	5	A	CRASH	Stock market calamity
+0	11	10	A	BARD	Singing poet
+1	0	14	A	AUDE	French river
+1	5	15	A	HUMOR	Wit
+1	11	16	A	OGEE	Curved molding
+2	0	17	A	STOP	Discontinue
+2	5	18	A	APIS	Egyptian bull-deity
+2	11	19	A	NOTE	Paper currency
+3	0	20	A	SOLO	Han ----
+3	5	21	A	NED	--- Beatty, actor
+3	9	22	A	LEDGER	Account book
+4	3	24	A	SAGE	Man of wisdom
+4	8	26	A	WIRE	Telegram
+5	0	27	A	SH	Quiet!
+5	3	29	A	IDE	Carp-like fish
+5	7	30	A	DIVIDEND	A share of stockholder profits
+6	0	34	A	CENTS	Pennies
+6	6	36	A	SALES	A kind of tax
+6	12	37	A	SUE	Take to court
+7	0	38	A	ALES	Malt beverages
+7	5	39	A	BINDS	Ties together
+7	11	40	A	BARB	Sharp point
+8	0	41	A	LEE	--- Greenwood, singer
+8	4	42	A	FARCE	Exaggerated comedy
+8	10	43	A	TRUST	Sell on credit
+9	0	44	A	ENDORSEE	Recipient of transferred documents
+9	9	46	A	WOE	Misfortune
+9	13	47	A	ES	Plural ending
+10	3	48	A	REIN	Bridle strap
+10	8	49	A	LIRA	Turkish coin
+11	0	50	A	SWEDEN	A neutral European country
+11	7	53	A	OIL	"Black Gold"
+11	11	54	A	KISS	"--- your money goodbye!"
+12	0	58	A	HAVE	Own
+12	6	59	A	NABS	Seizes
+12	11	60	A	AREA	Region
+13	0	61	A	OVER	Above
+13	5	62	A	METRO	"M" in MGM of movies
+13	11	63	A	GOES	Departs
+14	0	64	A	TENS	Bills with Hamilton's portrait
+14	5	65	A	ETHAN	"----- Frome" (Wharton novel)
+14	11	66	A	ENDS	"Make ---- meet"
+0	0	1	D	PASS	Free admission
+0	1	2	D	AUTO	Car
+0	2	3	D	IDOL	Golden calf
+0	3	4	D	DEPOSITS	Money drops in bank
+0	5	5	D	CHANGE	Loose coins in seat cushions
+0	6	6	D	RUPEE	Indian currency
+0	7	7	D	AMID	Surrounded by
+0	8	8	D	SOS	Distress call
+0	9	9	D	HR	Hour (abbreviated)
+0	11	10	D	BONDED	Insured for security
+0	12	11	D	AGOG	All excited
+0	13	12	D	RETE	Network of nerves
+0	14	13	D	DEER	Antlered animal
+3	9	22	D	LIVES	Resides
+3	10	23	D	ERIS	Goddess of Discord
+4	4	25	D	ADS	Advertisements (abbreviated)
+4	8	26	D	WILDE	Oscar -----, dramatist
+5	0	27	D	SCALE	Union wages
+5	1	28	D	HELEN	----- of Troy
+5	7	30	D	DANCE	Social ball
+5	12	31	D	ESAU	Sold his birthright
+5	13	32	D	NURSE	Caregiver
+5	14	33	D	DEBTS	Financial obligations
+6	2	35	D	NEED	Indigence
+6	6	36	D	SIREN	Alarm whistle
+7	5	39	D	BASIN	Wash bowl
+7	11	40	D	BREAKAGE	Sum allowance for loss
+8	4	42	D	FREE	Without cost
+8	10	43	D	TOR	--- Johnson, noted wrestler and actor
+9	3	45	D	ORDERS	Requests for merchandise
+9	9	46	D	WILSON	Woodrow ------
+10	8	49	D	LIBRA	Former gold coin of Peru
+11	0	50	D	SHOT	Fired
+11	1	51	D	WAVE	Ocean billow
+11	2	52	D	EVEN	Divisible by two
+11	7	53	D	OATH	Word of honor
+11	12	55	D	IRON	Common metal
+11	13	56	D	SEED	Bird food
+11	14	57	D	SASS	Impudent talk
+12	6	59	D	NET	Gain as profit
+13	5	62	D	ME	Myself

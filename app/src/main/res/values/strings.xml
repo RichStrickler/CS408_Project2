@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Project #2</string>
+    <string name="across_clue_header">Across</string>
+    <string name="down_clue_header">Down</string>
+    <string name="dialog_title">Enter Your Guess</string>
+    <string name="dialog_message">Enter your guess and tap OK or CANCEL:</string>
+    <string name="complete_title">Crossword Complete</string>
+    <string name="complete_message">The Crossword is Solved.</string>
+</resources>
