@@ -136,7 +136,6 @@ public class CrosswordViewModel extends ViewModel {
             ArrayList<String> keys = savedKeys.getAllKeysAsList();
             if (savedKeys != null) {
                 for (int i = 0; i < keys.size(); ++i) {
-                    Log.d("Keys", keys.get(i));
                     addWordToGrid(keys.get(i).toString());
                 }
             }
