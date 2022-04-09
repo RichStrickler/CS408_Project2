@@ -179,10 +179,8 @@ public class PuzzleFragment extends Fragment implements TabFragment {
         int gridWidth = Math.max(puzzleHeight, puzzleWidth);
 
         int squareSize = ( Math.min(windowHeightDp - windowOverheadDp, windowWidthDp) / gridWidth );
-        //int letterSize = (int)( squareSize * 0.65 );
-        int letterSize = (int)( squareSize * 0.30 );
-        //numberSize = (int)( squareSize * 0.225 );
-        numberSize = (int)( squareSize * 0.125 );
+        int letterSize = (int)( squareSize * 0.65 );
+        numberSize = (int)( squareSize * 0.225 );
 
         // Get ConstraintLayout
 
